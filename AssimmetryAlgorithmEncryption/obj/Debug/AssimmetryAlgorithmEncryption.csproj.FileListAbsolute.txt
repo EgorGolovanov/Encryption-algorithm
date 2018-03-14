@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\AssimmetryAlgorithmEncryption\AssimmetryAlgorithmEncryption\bin\Debug\AssimmetryAlgorithmEncryption.exe.config
+C:\Users\PC\Desktop\AssimmetryAlgorithmEncryption\AssimmetryAlgorithmEncryption\bin\Debug\AssimmetryAlgorithmEncryption.exe
+C:\Users\PC\Desktop\AssimmetryAlgorithmEncryption\AssimmetryAlgorithmEncryption\bin\Debug\AssimmetryAlgorithmEncryption.pdb
+C:\Users\PC\Desktop\AssimmetryAlgorithmEncryption\AssimmetryAlgorithmEncryption\obj\Debug\AssimmetryAlgorithmEncryption.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\AssimmetryAlgorithmEncryption\AssimmetryAlgorithmEncryption\obj\Debug\AssimmetryAlgorithmEncryption.Main_Form.resources
+C:\Users\PC\Desktop\AssimmetryAlgorithmEncryption\AssimmetryAlgorithmEncryption\obj\Debug\AssimmetryAlgorithmEncryption.Properties.Resources.resources
+C:\Users\PC\Desktop\AssimmetryAlgorithmEncryption\AssimmetryAlgorithmEncryption\obj\Debug\AssimmetryAlgorithmEncryption.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\AssimmetryAlgorithmEncryption\AssimmetryAlgorithmEncryption\obj\Debug\AssimmetryAlgorithmEncryption.exe
+C:\Users\PC\Desktop\AssimmetryAlgorithmEncryption\AssimmetryAlgorithmEncryption\obj\Debug\AssimmetryAlgorithmEncryption.pdb
